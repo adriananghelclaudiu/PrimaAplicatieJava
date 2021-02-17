@@ -18,7 +18,7 @@ public class Main {
             System.out.println("USAGE: java ro.java.ctrln.Main 1 2 3 4");
             return;
         }
-	    System.out.println("Invat limbajul Java si despre masina virtuala Java!");
+	    System.out.println("Invat limbajul Java si despre masina virtuala Java! ");
         ro.java.misc.Main.main(args);
     }
 }
