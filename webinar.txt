@@ -1,0 +1,4 @@
+1. detalii despre lectia 2
+2. transmiterea prin valoare si transmiterea prin referinta
+3. debugging
+4. tratarea exceptiilor
